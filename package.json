@@ -26,6 +26,6 @@
   ],
   "dependencies": {
     "object-assign": "^4.0.1",
-    "postcss": "^5.0.2"
+    "postcss": "^8.2.13"
   }
 }
